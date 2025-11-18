@@ -1,0 +1,31 @@
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.log
+*.pdb
+*.suo
+
+## Visual Studio
+.vs/
+*.user
+*.bak
+*.ide
+*.ncb
+*.aps
+*.lck
+*.vshost.*
+*.csproj.user
+
+## Packages
+# Ignore NuGet packages directory
+packages/
+# Ignore Test results
+TestResults/
+# Ignore coverage results
+*.trx
+*.coverage
+*.coveragexml
