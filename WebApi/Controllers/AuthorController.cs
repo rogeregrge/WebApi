@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using WebApi.Dto.Author;
 using WebApi.Models;
@@ -17,6 +18,7 @@ namespace WebApi.Controllers
         }
 
         [HttpGet("ListAuthors")]
+        [Authorize]
         public async Task<ActionResult<ResponseModel<List<AuthorModel>>>> ListAuthors()
         {
             var authors = await _authorInterface.ListAuthors();
@@ -50,6 +52,7 @@ namespace WebApi.Controllers
         }
 
         [HttpDelete("DeleteAuthor")]
+
         public async Task<ActionResult<ResponseModel<List<AuthorModel>>>> DeleteAuthor(int idAuthor)
         {
             var authors = await _authorInterface.DeleteAuthor(idAuthor);

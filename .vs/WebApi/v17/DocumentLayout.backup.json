@@ -3,60 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\services\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\dto\\book\\editbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\book\\editbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\dto\\book\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\book\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\dto\\book\\bond\\authorbonddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\book\\bond\\authorbonddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\services\\book\\ibookinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\book\\ibookinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\services\\author\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\author\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\services\\author\\iauthorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\author\\iauthorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\dto\\author\\editauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\author\\editauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\dto\\author\\createauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\author\\createauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|c:\\users\\r.dos.santos.neto\\documents\\microsoft\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F28BF7B-6F4C-4866-803B-07DD748CD5AC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,180 +30,63 @@
       "DocumentGroups": [
         {
           "DockedHeight": 219,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AuthorBondDto.cs",
-              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Dto\\Book\\Bond\\AuthorBondDto.cs",
-              "RelativeDocumentMoniker": "WebApi\\Dto\\Book\\Bond\\AuthorBondDto.cs",
-              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Dto\\Book\\Bond\\AuthorBondDto.cs",
-              "RelativeToolTip": "WebApi\\Dto\\Book\\Bond\\AuthorBondDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:47:18.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BookModel.cs",
-              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Models\\BookModel.cs",
-              "RelativeDocumentMoniker": "WebApi\\Models\\BookModel.cs",
-              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Models\\BookModel.cs",
-              "RelativeToolTip": "WebApi\\Models\\BookModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:25:52.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditBookDto.cs",
-              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Dto\\Book\\EditBookDto.cs",
-              "RelativeDocumentMoniker": "WebApi\\Dto\\Book\\EditBookDto.cs",
-              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Dto\\Book\\EditBookDto.cs",
-              "RelativeToolTip": "WebApi\\Dto\\Book\\EditBookDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:24:35.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateBookDto.cs",
-              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Dto\\Book\\CreateBookDto.cs",
-              "RelativeDocumentMoniker": "WebApi\\Dto\\Book\\CreateBookDto.cs",
-              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Dto\\Book\\CreateBookDto.cs",
-              "RelativeToolTip": "WebApi\\Dto\\Book\\CreateBookDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:24:06.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBookInterface.cs",
-              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Services\\Book\\IBookInterface.cs",
-              "RelativeDocumentMoniker": "WebApi\\Services\\Book\\IBookInterface.cs",
-              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Services\\Book\\IBookInterface.cs",
-              "RelativeToolTip": "WebApi\\Services\\Book\\IBookInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:13:29.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Services\\Book\\BookService.cs",
-              "RelativeDocumentMoniker": "WebApi\\Services\\Book\\BookService.cs",
-              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Services\\Book\\BookService.cs",
-              "RelativeToolTip": "WebApi\\Services\\Book\\BookService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:12:52.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Controllers\\BookController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\BookController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAcwDgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:11:53.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EditAuthorDto.cs",
-              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Dto\\Author\\EditAuthorDto.cs",
-              "RelativeDocumentMoniker": "WebApi\\Dto\\Author\\EditAuthorDto.cs",
-              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Dto\\Author\\EditAuthorDto.cs",
-              "RelativeToolTip": "WebApi\\Dto\\Author\\EditAuthorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T17:46:59.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthorModel.cs",
-              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Models\\AuthorModel.cs",
-              "RelativeDocumentMoniker": "WebApi\\Models\\AuthorModel.cs",
-              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Models\\AuthorModel.cs",
-              "RelativeToolTip": "WebApi\\Models\\AuthorModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T17:22:19.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateAuthorDto.cs",
-              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Dto\\Author\\CreateAuthorDto.cs",
-              "RelativeDocumentMoniker": "WebApi\\Dto\\Author\\CreateAuthorDto.cs",
-              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Dto\\Author\\CreateAuthorDto.cs",
-              "RelativeToolTip": "WebApi\\Dto\\Author\\CreateAuthorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T17:22:03.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAvwBAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T16:33:02.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "AuthorController.cs",
               "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Controllers\\AuthorController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthorController.cs",
               "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Controllers\\AuthorController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\AuthorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T16:27:34.3Z",
+              "WhenOpened": "2025-11-18T23:59:22.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthorService.cs",
-              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Services\\Author\\AuthorService.cs",
-              "RelativeDocumentMoniker": "WebApi\\Services\\Author\\AuthorService.cs",
-              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Services\\Author\\AuthorService.cs",
-              "RelativeToolTip": "WebApi\\Services\\Author\\AuthorService.cs",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAAALAAAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T16:09:14.658Z",
+              "WhenOpened": "2025-11-18T22:45:58.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "WebApi\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "WebApi\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:28:37.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:16:01.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IAuthorInterface.cs",
               "DocumentMoniker": "C:\\Users\\r.dos.santos.neto\\Documents\\Microsoft\\WebApi\\WebApi\\Services\\Author\\IAuthorInterface.cs",
               "RelativeDocumentMoniker": "WebApi\\Services\\Author\\IAuthorInterface.cs",

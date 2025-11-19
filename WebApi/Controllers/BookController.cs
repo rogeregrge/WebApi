@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using WebApi.Dto.Author;
 using WebApi.Dto.Book;
@@ -19,6 +20,7 @@ namespace WebApi.Controllers
         }
 
         [HttpGet("ListBooks")]
+        [Authorize]
         public async Task<ActionResult<ResponseModel<List<BookModel>>>> ListBooks()
         {
             var books = await _bookInterface.ListBooks();
