@@ -130,7 +130,6 @@ C:\Users\r.dos.santos.neto\Documents\Microsoft\WebApi\WebApi\obj\Debug\net8.0\st
 C:\Users\r.dos.santos.neto\Documents\Microsoft\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\r.dos.santos.neto\Documents\Microsoft\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\r.dos.santos.neto\Documents\Microsoft\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\r.dos.santos.neto\Documents\Microsoft\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\r.dos.santos.neto\Documents\Microsoft\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
 C:\Users\r.dos.santos.neto\Documents\Microsoft\WebApi\WebApi\obj\Debug\net8.0\WebApi.dll
 C:\Users\r.dos.santos.neto\Documents\Microsoft\WebApi\WebApi\obj\Debug\net8.0\refint\WebApi.dll
