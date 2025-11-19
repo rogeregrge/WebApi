@@ -44,8 +44,8 @@ This project is a **RESTful API** developed using **C# / ASP.NET Core Web API** 
 The API is deployed and ready for testing directly via the Swagger UI interface.
 
 1.  **Source Code:**
-    * **GitHub Repository:** `[[https://github.com/rogeregrge/WebApi]]
-    * **Deployed Link:** `[[https://webapiavanade-b9fedsegdmc5dnd6.canadaeast-01.azurewebsites.net/swagger/index.html]]
+    * **GitHub Repository:** `https://github.com/rogeregrge/WebApi
+    * **Deployed Link:** `https://webapiavanade-b9fedsegdmc5dnd6.canadaeast-01.azurewebsites.net/swagger/index.html
 
 #### 📝 Recommended Test Sequence:
 
@@ -64,7 +64,7 @@ For who prefers to run the API locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone `[[https://github.com/rogeregrge/WebApi]]
+    git clone `https://github.com/rogeregrge/WebApi
     cd WebApi
     ```
 2.  **Restore Dependencies:**
