@@ -47,7 +47,7 @@ The API is deployed and ready for testing directly via the Swagger UI interface.
     * **GitHub Repository:** `https://github.com/rogeregrge/WebApi
     * **Deployed Link:** `https://webapiavanade-b9fedsegdmc5dnd6.canadaeast-01.azurewebsites.net/swagger/index.html
 
-#### 📝 Recommended Test Sequence:
+#### Recommended Test Sequence:
 
 To successfully test the secured endpoints:
 
